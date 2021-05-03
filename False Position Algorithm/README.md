@@ -1,7 +1,7 @@
 
 # False Position Algorithm
 --------------------------
-This is an algorithm which finds the root of a function at the desired amout of error and number of iterations.
+This is an algorithm which finds the root of a function at the desired amout of error and number of iterations. The function will provide es and maxit if you do not add them.
 
 ### Inputs
 * func(Your function you want to use false position on)
