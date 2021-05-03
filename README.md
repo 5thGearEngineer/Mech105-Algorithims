@@ -3,6 +3,8 @@ MATLAB Algorithms I wrote for my Mech-105 class that use numerical methons.
 
 # Algorithims
 
+-Binary Converter
+
 -False Position Algorithm
 
 -Linear Algebra Algorithm
